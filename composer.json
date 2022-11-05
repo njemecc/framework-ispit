@@ -1,0 +1,9 @@
+{
+  "name": "njemec/composer",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {}
+}
